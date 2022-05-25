@@ -46,7 +46,7 @@ public class Main {
   public static void main(String[] args) {
 
     String input = "MyString";
-    int rotation = 8;
+    int rotation = 2;
     System.out.println(MyClass.stringRotation(input,rotation));
 
     
